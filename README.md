@@ -1,3 +1,2 @@
 # testrepo
-Hello, here we are testing GitHub repos
-We can add any text we want here
+Hello, I am trying GitHub.com
